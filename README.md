@@ -25,4 +25,5 @@ Como utilizar
  - Por se tratar de um banco de dados em memória, os dados são apagados a cada execução da aplicação
  - Ao iniciar a aplicação é necessário chamar o endpoint de autenticação informando um usuário e senha para obter o token:
    - Usar como usuário e senha padrão admin.
+   - O token tem validade de 30 minutos, pode ser configurado no application.properties
  - Após, utilizar os endpoints da aplicação usando o Bearer <token> no header (Autorizar no swagger)
