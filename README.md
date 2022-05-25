@@ -15,9 +15,9 @@ Libs utilizadas:
  - Hibernate como ORM
  - Spring data jpa como gerenciador de consultas
  - Banco de dados em memória H2
- - Lombok para tratar getters, setters, construtores...
+ - Lombok para tratar getters, setters, construtores, builders...
  - Spring security com autenticação JWT
- - Mapstruct para converter entidades em DTOs
+ - Mapstruct para converter entidades em DTOs e vice versa
  - Spring fox com swagger documentado
  - JUnit e Mockito para testes unitários
 
