@@ -6,7 +6,7 @@ Possui um crud básico:
  - Cadastrar afinidades
  - Cadastrar scores
  - Cadastrar pessoas
- - Buscar pessoas por id juntamente com a descrição de seu score
+ - Buscar pessoas por id juntamente com a descrição de seu score e seus respectivos Estados.
  
 Libs utilizadas:
  - Maven
