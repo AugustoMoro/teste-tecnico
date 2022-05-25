@@ -26,4 +26,5 @@ Como utilizar
  - Ao iniciar a aplicação é necessário chamar o endpoint de autenticação informando um usuário e senha para obter o token:
    - Usar como usuário e senha padrão admin.
    - O token tem validade de 30 minutos, pode ser configurado no application.properties
+   - O Swagger está aberto, sem a necessidade de autenticação.
  - Após, utilizar os endpoints da aplicação usando o Bearer <token> no header (Autorizar no swagger)
